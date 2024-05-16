@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Soy un Ingeniero de Sistemas altamente calificado, respaldado por una formación académica sólida y una experiencia práctica sustancial en el diseño, desarrollo e implementación de soluciones tecnológicas avanzadas.
+
+Mi trayectoria profesional ha estado centrada en la gestión efectiva de proyectos de tecnología de la información, destacándome en el análisis de sistemas y la resolución de problemas complejos. A lo largo de mi carrera, he demostrado competencia en programación, administración de bases de datos y desarrollo de software, habilidades que considero esenciales para abordar los desafíos presentes en el ámbito de la ingeniería de sistemas.
+
+Mi compromiso con la excelencia se refleja en mi historial exitoso de liderar equipos hacia el logro de metas específicas y en la implementación de soluciones innovadoras que optimizan la eficiencia operativa.
 
 <br><br>
 
