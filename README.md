@@ -13,6 +13,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
+
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <!-- EXAMPLE : - Soy ingeniero de sistemas  -->
 Soy un Ingeniero de Sistemas altamente calificado, respaldado por una formación académica sólida y una experiencia práctica sustancial en el diseño, desarrollo e implementación de soluciones tecnológicas avanzadas.
 
