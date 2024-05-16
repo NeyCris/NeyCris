@@ -68,6 +68,13 @@ Mi compromiso con la excelencia se refleja en mi historial exitoso de liderar eq
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
+
+
+### 🐍 &nbsp;That's How Commits move ...
+
+<div align="center">
+  <a href="https://github.com/Adityakanoi2001/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
