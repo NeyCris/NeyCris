@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hola, Soy Neil Neyra Crispin</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero de Sistemas;Desarrollo de Sistemas de Informacion;Gestión de Proyectos;Seguridad Informatica"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Desarrollo+de+Sistemas+de+Informacion;Gestión+de+Proyectos;Seguridad+Informatica"></a>
 </p>
 
 <br>
