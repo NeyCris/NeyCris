@@ -4,7 +4,7 @@
 
 <!-- BANNER DE PRESENTACION  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Desarrollo+de+Sistemas+de+Informacion;Gestión+de+Proyectos;Seguridad+Informatica"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.comfont=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Information+Systems+Development;Project+management;Informatic+security"></a>
 </p>
 <br>
 
@@ -82,7 +82,7 @@ My commitment to excellence is reflected in my successful track record of leadin
   - **Operating Systems**:
    <p align="letf">
   	<a href="https://skillicons.dev">
-    		<img src="https://skillicons.dev/icons?i=linux,ubutno,windows,debian" />
+    		<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,debian" />
   	</a>
     </p>  
 </p>
