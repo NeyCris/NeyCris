@@ -33,7 +33,7 @@ Mi compromiso con la excelencia se refleja en mi historial exitoso de liderar eq
 <p align="center">
 	
 - **Languages**:
-    <p align="center">
+    <p align="letf">
   	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=cs,cpp,py,php,java,js,html,css,kotlin" />
   	</a>
