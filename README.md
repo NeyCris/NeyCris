@@ -76,8 +76,15 @@ My commitment to excellence is reflected in my successful track record of leadin
     		<img src="https://skillicons.dev/icons?i=visualstudio,atom,eclipse" />
   	</a>
     </p>
-
     
+<br>
+
+  - **Operating Systems**:
+   <p align="letf">
+  	<a href="https://skillicons.dev">
+    		<img src="https://skillicons.dev/icons?i=linux,ubutno,windows,debian" />
+  	</a>
+    </p>  
 </p>
 
 
